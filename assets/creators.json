@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "earthbound-eco-lodge",
+    "name": "Earthbound Eco Lodge",
+    "type": "Stay",
+    "price_tier": "$$$",
+    "micro_location": "Munnar Hills",
+    "state": "Kerala",
+    "habitat": "mountain",
+    "tags": [
+      "Eco Lodge",
+      "Tea Gardens",
+      "Bird Watching",
+      "Solar Powered",
+      "Rainwater Harvesting"
+    ],
+    "sustainability": [
+      "Plastic-free ops",
+      "Local sourcing (80%)",
+      "Native landscaping"
+    ],
+    "story": "A slow, mindful retreat nested among tea gardens, built with stone & timber reclaimed from the land.",
+    "cover_media": "assets/creator.jpg",
+    "experiences": [
+      {
+        "title": "Sunrise Ridge Walk",
+        "desc": "A guided trek across tea slopes",
+        "ext_url": "#"
+      },
+      {
+        "title": "Herbal Tea Tasting",
+        "desc": "From farm to cup with the in-house naturist",
+        "ext_url": "#"
+      }
+    ],
+    "contact": {
+      "website_url": "#",
+      "booking_url": "#",
+      "instagram": "#",
+      "whatsapp": "#"
+    }
+  },
+  {
+    "slug": "clayworks-artisan-studio",
+    "name": "Clayworks Artisan Studio",
+    "type": "Artisan",
+    "price_tier": "$$",
+    "micro_location": "Udaipur Village",
+    "state": "Rajasthan",
+    "habitat": "village",
+    "tags": [
+      "Pottery",
+      "Traditional Crafts",
+      "Workshops",
+      "Natural Clay"
+    ],
+    "sustainability": [
+      "Wood-fired kilns with waste wood",
+      "Community owned"
+    ],
+    "story": "Hands-in-clay sessions guided by master artisans preserving indigenous techniques.",
+    "cover_media": "assets/creator.jpg",
+    "experiences": [
+      {
+        "title": "Hand-Building 101",
+        "desc": "Learn pinching & coiling basics",
+        "ext_url": "#"
+      }
+    ],
+    "contact": {
+      "website_url": "#",
+      "booking_url": "#",
+      "instagram": "#",
+      "whatsapp": "#"
+    }
+  },
+  {
+    "slug": "green-harvest-farm",
+    "name": "Green Harvest Farm",
+    "type": "Experience",
+    "price_tier": "$",
+    "micro_location": "Dharamshala Valley",
+    "state": "Himachal Pradesh",
+    "habitat": "valley",
+    "tags": [
+      "Organic Farming",
+      "Permaculture",
+      "Community",
+      "Organic Certified"
+    ],
+    "sustainability": [
+      "Zero pesticides",
+      "Water stewardship"
+    ],
+    "story": "Spend a day learning regenerative practices on a community-run farm.",
+    "cover_media": "assets/creator.jpg",
+    "experiences": [
+      {
+        "title": "Permaculture Walk",
+        "desc": "Observe water channels & guilds",
+        "ext_url": "#"
+      }
+    ],
+    "contact": {
+      "website_url": "#",
+      "booking_url": "#",
+      "instagram": "#",
+      "whatsapp": "#"
+    }
+  }
+]
